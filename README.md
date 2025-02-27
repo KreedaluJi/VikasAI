@@ -4,6 +4,8 @@ Vikas AI is your everyday automation assistant for daily Windows tasks. Designed
 it enables seamless task automation through voice commands and intelligent integrations. With Vikas AI, you can easily
 manage your routine tasks with minimal effort.
 
+**Note:-** This is a simple demonstration of the capabilities of python and what can be achieved as a basic structure. Modifications can be done to improve certain aspects for professional use case. See the [License Terms](LICENSE) before making modifications. 
+
 ## Features
 
 Will be Included Later On, Checkout Wiki If Not Added!
