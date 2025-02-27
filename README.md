@@ -41,7 +41,7 @@ If you prefer setting it up manually, follow these steps:
     python main.py
     ```
 
-**Note:** This method requires Python 3.8 or later to be installed on your machine.
+**Note:** This method requires Python 3.12 to be installed on your machine.
 
 ## License
 
